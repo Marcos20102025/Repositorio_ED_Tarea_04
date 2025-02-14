@@ -10,6 +10,7 @@ public class Main {
         operativa_cuenta(2);
     }
 
+
     private static void operativa_cuenta(float cantidad) {
         CCuenta cuenta1;
         double saldoActual;
