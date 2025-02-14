@@ -32,7 +32,6 @@ public class CCuenta {
      * @param sal Variable tipo double que contiene el saldo
      * @param tipo Variable tipo double que contiene el tipo de interés
      *
-     *
      */
 
     public CCuenta(String nom, String cue, double sal, double tipo)
